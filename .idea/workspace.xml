@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,7 +31,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -43,11 +48,5 @@
       <updated>1630485248833</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="213" y="25" key="SettingsEditor" timestamp="1630485442372">
-      <screen x="0" y="25" width="1440" height="791" />
-    </state>
-    <state x="213" y="25" key="SettingsEditor/0.25.1440.791@0.25.1440.791" timestamp="1630485442372" />
   </component>
 </project>
